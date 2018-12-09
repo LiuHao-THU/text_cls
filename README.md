@@ -1,2 +1,2 @@
 # text_cls
-CNN, LSTM, GRU, BERT for text classification
+CNN, LSTM, GRU, Capsule, BERT for text classification
